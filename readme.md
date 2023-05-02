@@ -22,3 +22,6 @@ pip install -r requirements.txt
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a new branch. Then, submit a pull request with your changes.
+
+## LICENSE
+[MIT License](LICENSE)
